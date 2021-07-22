@@ -1,0 +1,10 @@
+
+  Timestamp: 2021-07-22T22:44:42.424346+0000
+  URL:    https://checkip.amazonaws.com
+  Status: 200
+  Method: head
+  Request Body SHA256:  47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+  Response Body SHA256: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+  thank you, next...request
+  
